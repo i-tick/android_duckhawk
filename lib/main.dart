@@ -268,7 +268,7 @@ class _HomePageState extends State<HomePage> {
                 ],
               )),
           Container(
-            height: 120.0,
+            height:120.0,
             child: products(
               'fashion',
             ),
@@ -297,7 +297,7 @@ class _HomePageState extends State<HomePage> {
             ) ,),*/
 
           Container(
-            height: 120.0,
+            height:120.0,
             child: products('electronics'),
           ),
         ],
